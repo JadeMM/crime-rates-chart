@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crime-rates-chart/static/css/main.535551c3.chunk.css",
+    "main.js": "/crime-rates-chart/static/js/main.d082aad9.chunk.js",
+    "main.js.map": "/crime-rates-chart/static/js/main.d082aad9.chunk.js.map",
+    "runtime-main.js": "/crime-rates-chart/static/js/runtime-main.6b92d425.js",
+    "runtime-main.js.map": "/crime-rates-chart/static/js/runtime-main.6b92d425.js.map",
+    "static/js/2.4b36ca23.chunk.js": "/crime-rates-chart/static/js/2.4b36ca23.chunk.js",
+    "static/js/2.4b36ca23.chunk.js.map": "/crime-rates-chart/static/js/2.4b36ca23.chunk.js.map",
+    "index.html": "/crime-rates-chart/index.html",
+    "precache-manifest.9dbc4fbdec01726a535a7bf4c39df33a.js": "/crime-rates-chart/precache-manifest.9dbc4fbdec01726a535a7bf4c39df33a.js",
+    "service-worker.js": "/crime-rates-chart/service-worker.js",
+    "static/css/main.535551c3.chunk.css.map": "/crime-rates-chart/static/css/main.535551c3.chunk.css.map",
+    "static/js/2.4b36ca23.chunk.js.LICENSE.txt": "/crime-rates-chart/static/js/2.4b36ca23.chunk.js.LICENSE.txt",
+    "static/media/data.csv": "/crime-rates-chart/static/media/data.0fa7f54e.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b92d425.js",
+    "static/js/2.4b36ca23.chunk.js",
+    "static/css/main.535551c3.chunk.css",
+    "static/js/main.d082aad9.chunk.js"
+  ]
+}
