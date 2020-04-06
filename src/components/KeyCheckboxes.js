@@ -1,5 +1,6 @@
 import React from 'react';
 
+//Row of chcekboxes, one for each district
 export default function KeyCheckboxes(props) {
     return (
         <form>
