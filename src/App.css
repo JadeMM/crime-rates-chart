@@ -1,0 +1,16 @@
+.body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+#canvas {
+  margin: 20px;
+}
+
+.checks {
+  margin: 5px 10px;
+
+}
